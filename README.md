@@ -1,0 +1,1 @@
+This repository contains a bug report and solution for an unexpected type error in ActionScript 3. The bug occurs when a function is called with an argument of an unexpected type. The solution involves checking the type of the argument before using it.
